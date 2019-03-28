@@ -1,4 +1,22 @@
 <resources>
-    <string name="app_name">BackloggieToch</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Game Backlog</string>
+    <string name="platform_label">Platform</string>
+    <string name="title_label">Title</string>
+    <string name="status_label">Status</string>
+    <string name="platform_placeholder">Platform</string>
+    <string name="title_placeholder">Title</string>
+
+    <string name="title_activity_add_game_new">New</string>
+    <string name="title_activity_add_game_update">Update</string>
+    <string name="delete">Delete</string>
+    <string-array name="statusGame">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+        <item>Completed</item>
+
+
+    </string-array>
+    <string name="title_activity_add_game">add_game</string>
 </resources>
